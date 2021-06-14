@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "name":  "Jenifer",
+    "lastname": "Drechsler",
+    "experience": 1,
+    "position": "Junior",
+    "salary": 400,
+    "office": "Kyiv"
+  },
+  {
+    "id": 2,
+    "name":  "Katerina",
+    "lastname": "Hodson",
+    "experience": 2,
+    "position": "Junior",
+    "salary": 700,
+    "office": "Ivano-Frankivsk"
+  },
+  {
+    "id": 3,
+    "name":  "Rosaria",
+    "lastname": "Markwardt",
+    "experience": 3,
+    "position": "Junior",
+    "salary": 850,
+    "office": "Lviv"
+  },
+  {
+    "id": 4,
+    "name":  "Mary Jane",
+    "lastname": "Benson",
+    "experience": 7,
+    "position": "Middle",
+    "salary": 1300,
+    "office": "Kyiv"
+  },
+  {
+    "id": 5,
+    "name":  "Giuseppe",
+    "lastname": "Booth",
+    "experience": 17,
+    "position": "Senior",
+    "salary": 4500,
+    "office": "Lviv"
+  },
+  {
+    "id": 6,
+    "name":  "Franzi",
+    "lastname": "Nicosia",
+    "experience": 15,
+    "position": "Senior",
+    "salary": 4700,
+    "office": "Kyiv"
+  },
+  {
+    "id": 7,
+    "name":  "Lisha",
+    "lastname": "Giannino",
+    "experience": 23,
+    "position": "Lead",
+    "salary": 6500,
+    "office": "Kyiv"
+  },
+  {
+    "id": 8,
+    "name":  "Mélodie",
+    "lastname": "Danielson",
+    "experience": 25,
+    "position": "Lead",
+    "salary": 6000,
+    "office": "Kyiv"
+  },
+  {
+    "id": 9,
+    "name":  "Lise",
+    "lastname": "Carlisle",
+    "experience": 3,
+    "position": "Junior",
+    "salary": 900,
+    "office": "Kyiv"
+  },
+  {
+    "id": 10,
+    "name":  "Sonya",
+    "lastname": "Albano",
+    "experience": 8,
+    "position": "Middle+",
+    "salary": 1700,
+    "office": "Lviv"
+  },
+  {
+    "id": 11,
+    "name":  "Arron",
+    "lastname": "Chevrolet",
+    "experience": 16,
+    "position": "Senior",
+    "salary": 3600,
+    "office": "Kyiv"
+  },
+  {
+    "id": 12,
+    "name":  "Dudley",
+    "lastname": "Abbascia",
+    "experience": 10,
+    "position": "Middle+",
+    "salary": 5200,
+    "office": "Lviv"
+  },
+  {
+    "id": 13,
+    "name":  "Ella",
+    "lastname": "Parkins",
+    "experience": 2,
+    "position": "Junior",
+    "salary": 2350,
+    "office": "Ivano-Frankivsk"
+  },
+  {
+    "id": 14,
+    "name":  "Fleur",
+    "lastname": "Wallace",
+    "experience": 6,
+    "position": "Middle",
+    "salary": 4000,
+    "office": "Kyiv"
+  },
+  {
+    "id": 15,
+    "name":  "Leonti",
+    "lastname": "Comstock",
+    "experience": 17,
+    "position": "Senior",
+    "salary": 7540,
+    "office": "Ivano-Frankivsk"
+  },
+  {
+    "id": 16,
+    "name":  "Madelaine",
+    "lastname": "Deforest",
+    "experience": 11,
+    "position": "Middle+",
+    "salary": 6600,
+    "office": "Lviv"
+  },
+  {
+    "id": 17,
+    "name":  "Haywood",
+    "lastname": "Padmore",
+    "experience": 8,
+    "position": "Middle+",
+    "salary": 2500,
+    "office": "Lviv"
+  },
+  {
+    "id": 18,
+    "name":  "Benigno",
+    "lastname": "Cornett",
+    "experience": 5,
+    "position": "Middle",
+    "salary": 1900,
+    "office": "Ivano-Frankivsk"
+  },
+  {
+    "id": 19,
+    "name":  "Susan",
+    "lastname": "Sams",
+    "experience": 4,
+    "position": "Middle",
+    "salary": 1450,
+    "office": "Ivano-Frankivsk"
+  },
+  {
+    "id": 20,
+    "name":  "Antonella",
+    "lastname": "Statham",
+    "experience": 7,
+    "position": "Middle+",
+    "salary": 2560,
+    "office": "Ivano-Frankivsk"
+  },
+  {
+    "id": 21,
+    "name":  "Terentiy",
+    "lastname": "Turner",
+    "experience": 14,
+    "position": "Senior",
+    "salary": 4350,
+    "office": "Lviv"
+  },
+  {
+    "id": 22,
+    "name":  "Wilfreda",
+    "lastname": "Watts",
+    "experience": 10,
+    "position": "Senior",
+    "salary": 3700,
+    "office": "Lviv"
+  },
+  {
+    "id": 23,
+    "name":  "Evvie",
+    "lastname": "Slater",
+    "experience": 21,
+    "position": "Lead",
+    "salary": 7500,
+    "office": "Kyiv"
+  }
+]
